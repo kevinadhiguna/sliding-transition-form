@@ -15,3 +15,5 @@ Actually you will see sliding effect here :<br><br>
 
 ### Sign Up form
 <img src="https://raw.githubusercontent.com/kevinadhiguna/sliding-transition-form/master/demo/2.png" width="90%"></img>
+
+[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/sliding-transition-form)](https://github.com/kevinadhiguna)
